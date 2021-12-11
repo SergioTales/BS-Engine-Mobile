@@ -28,6 +28,7 @@ class CreditsState extends MusicBeatState
 	['Bright Zirimund',		'bright',		'Otimizaçao/Adaptaçao Artistica',				'https://www.youtube.com/c/matheussilver',		'0xFFC30085'],
 	['LoreNYAW',		'lore',		'Coder/Builder',				'https://www.youtube.com/c/matheussilver',		'0xFFC30085'],
 	['ZavasSC',		'polybiusproxy',		'Sistema de customizaçao mobile',				'https://www.youtube.com/c/matheussilver',		'0xFF6475F3'],
+	['SergioTales',		'Mauro',		'Otimizador Fodao',				'https://youtube.com/channel/UCZvhcM0S-uhAygFvkcWjmRw',		'0xFF6475F3'],
 	['Discord',			'discord',			'nosso servidor do discord\n para atualizaçoes, projetos e\num pouco de zoeira',		'https://discord.gg/3c7ZP37FqX',		'0xFF4494E6'],
 	[''],
 	['ovo traduzi o resto nao kek'],
